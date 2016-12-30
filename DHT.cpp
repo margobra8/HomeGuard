@@ -1,7 +1,7 @@
 /* DHT library
 
 MIT license
-written by Adafruit Industries
+written by Marcos Gómez - http://margobra8.ml/
 */
 
 #include "DHT.h"

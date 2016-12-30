@@ -1,6 +1,10 @@
-MIT License
+### MIT License
 
-Copyright (c) 2017 Marcos Gómez
+> Copyright (c) 2016-2017 Marcos Gómez
+
+__
+SOME LIBRARIES USE SAMPLE CODE FROM ADAFRUIT, REFER TO "gpl-3.0.md" FOR MORE INFO ON THIS MATTER
+__
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
